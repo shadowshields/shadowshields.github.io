@@ -1,0 +1,13 @@
+# /_data/authors.yml
+
+Shadow Walker:
+  name: "Shadow Walker"
+  bio: "shadow walker"
+  avatar: "/assets/images/avatar.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "shadowwalkerxyz@qq.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "www.shadowshields.xyz"
