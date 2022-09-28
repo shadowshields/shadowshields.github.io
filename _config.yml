@@ -5,7 +5,7 @@ plugins:
 title: "Shadow Walker"
 description: ""
 minimal_mistakes_skin: "dark"
-url: "www.shadowshields.xyz"
+url: "www.shadowwalker.xyz"
 locale: # zh
 
 # Site Author
@@ -14,9 +14,9 @@ author:
   avatar           : "/assets/images/avatar.jpg"
   bio              : "shadow walker"
 
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-# paginate_path: /recent/page:num/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+# # paginate_path: /recent/page:num/
 
 defaults:
   # _posts
